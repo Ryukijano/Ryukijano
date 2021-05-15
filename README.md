@@ -12,4 +12,7 @@ Stranger,IM a b.tech student in his Sophomore year.
 - ⚡ Fun fact: .I never tire out!..
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=synthwave) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Ryukijano.CharalambosIoannou)
