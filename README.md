@@ -11,3 +11,4 @@ Stranger,IM a b.tech student in his Sophomore year.
 - 😄 Pronouns: .He/Him..
 - ⚡ Fun fact: .I never tire out!..
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano)](https://github.com/anuraghazra/github-readme-stats)
