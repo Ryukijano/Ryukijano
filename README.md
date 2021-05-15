@@ -15,4 +15,4 @@ Stranger,IM a b.tech student in his Sophomore year.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Ryukijano.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=Ryukijano.Ryukijano)
