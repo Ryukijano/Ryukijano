@@ -28,6 +28,7 @@ Stranger,IM a b.tech student in his Sophomore year.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/b37a6f7520a19b76cdb4d21dcba8efb6bf0fb77c12710a6ba24105f0ef46fb2e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32642f54656e736f72666c6f775f6c6f676f2e7376672f3132303070782d54656e736f72666c6f775f6c6f676f2e7376672e706e67
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=synthwave) 
