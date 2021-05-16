@@ -21,7 +21,6 @@ Stranger,IM a b.tech student in his Sophomore year.
 
 <br />
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 ## 🧰 Languages and Tools:
