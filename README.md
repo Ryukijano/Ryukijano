@@ -36,7 +36,6 @@ Stranger,IM a b.tech student in his Sophomore year.
 <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="Scikit" height="40" style="vertical-align:top; margin:4px">
 
 
-## HARDWARE<a href="https://icons8.com/icon/fzdr7mjSaS_w/video-card"></a>:
 
 </p>
 
