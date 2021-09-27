@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Stranger, I'm a B.Tech student in his Sophomore year.
+Stranger, I'm a B.Tech student in his Junior year.
 
 - 🔭 I’m currently working on .Tensorflow-GPU and CUDA-N libraries..
 - 🌱 I’m currently learning .Convulational Neural Networks and Pytorch..
