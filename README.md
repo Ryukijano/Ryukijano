@@ -3,7 +3,7 @@
 Stranger, I'm a B.Tech student in his Junior year.
 
 - 🔭 I’m currently working on .Tensorflow-GPU and CUDA-N libraries..
-- 🌱 I’m currently learning .Convulational Neural Networks and Pytorch..
+- 🌱 I’m currently learning .Recurrent Neural Networks and Pytorch..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with .Pytorch libraries..
 - 💬 Ask me about .TECH, be it game engines or GPU architectures or kernels...
