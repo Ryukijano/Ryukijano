@@ -47,4 +47,3 @@ Stranger, I'm a B.Tech student in his Junior year.
 
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
 ![Metrics](/github-metrics.svg)
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
