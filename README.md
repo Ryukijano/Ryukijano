@@ -47,4 +47,4 @@ Stranger, I'm a B.Tech student in his Junior year.
 
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
 ![Metrics](/github-metrics.svg)
-<iframe src="https://open.spotify.com/embed/album/6AK47486ycEAkSxbyZT53B?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+![Metrics](<iframe src="https://open.spotify.com/embed/album/6AK47486ycEAkSxbyZT53B?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
