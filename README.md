@@ -42,7 +42,7 @@ Stranger, I'm a B.Tech student in his Senior year.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=synthwave) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&theme=tokyoonight&langs_count=8)](https://github.com/Ryukijano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&theme=tokyoonight)](https://github.com/Ryukijano/github-readme-stats)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ryukijano.CharalambosIoannou)
 
