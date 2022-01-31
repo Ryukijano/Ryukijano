@@ -3,7 +3,7 @@
 Stranger, I'm a B.Tech student in his Senior year.
 
 - 🔭 I’m currently working on .Tensorflow-GPU and CUDA-N libraries..
-- 🌱 I’m currently learning .Recurrent Neural Network architectures..
+- 🌱 I’m currently learning Parallel Programming with Cuda..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with .Pytorch libraries..
 - 💬 Ask me about .TECH, be it game engines or GPU architectures or kernels...
@@ -25,6 +25,7 @@ Stranger, I'm a B.Tech student in his Senior year.
 
 ## 🧰 Languages and Tools:
 <p align="center">
+<img src="https://raw.githubusercontent.com/kriegalex/vscode-cuda/master/images/cudaIcon.png" alt="CudaC++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
