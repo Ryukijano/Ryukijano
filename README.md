@@ -2,10 +2,10 @@
 
 Stranger, I'm a B.Tech student in his Senior year.
 
-- 🔭 I’m currently working on .Tensorflow-GPU and CUDA-N libraries..
-- 🌱 I’m currently learning Parallel Programming with Cuda..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with .Pytorch libraries..
+- 🔭 I’m currently working on "SpAIcy".
+- 🌱 I’m currently learning Parallel Programming with Cuda.
+- 👯 I’m looking to collaborate on projects.
+- 🤔 I’m looking for help with Parallel programming 
 - 💬 Ask me about .TECH, be it game engines or GPU architectures or kernels...
 - 😄 Pronouns: .He/Him..
 - ⚡ Fun fact: .I never tire out!..
