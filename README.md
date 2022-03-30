@@ -35,6 +35,7 @@ Stranger, I'm a B.Tech student in his Senior year.
 <img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="Pytorch" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="Scikit" height="40" style="vertical-align:top; margin:4px">
+<img src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/144px-Rust_programming_language_black_logo.svg.png"alt="Scikit" height="40" style="vertical-align:top; margin:4px">
 
 
 
