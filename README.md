@@ -21,8 +21,6 @@ Stranger, I'm a B.Tech student in his Senior year.
 
 <br />
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=98uxdtb9kyu9qng3ul23kiqmg&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=98uxdtb9kyu9qng3ul23kiqmg&cover_image=true&theme=default)]]
-
 
 ## 🧰 Languages,Tools and Frameworks:
 <p align="center">
