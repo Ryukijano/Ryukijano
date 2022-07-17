@@ -3,7 +3,7 @@
 Stranger, I'm a B.Tech student in his Senior year.
 
 - 🔭 I’m currently working on "SpAIcy".
-- 🌱 I’m currently learning to make hybrid architectures with Qiskit and DeepLearning Libraries.
+- 🌱 I’m currently learning to make hybrid architectures with Qiskit and DeepLearning Libraries; and Reinforcement Learning.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with Parallel programming 
 - 💬 Ask me about .TECH, be it game engines or GPU architectures or kernels...
