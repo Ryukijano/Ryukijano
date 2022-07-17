@@ -34,7 +34,7 @@ Stranger, I'm a B.Tech student in his Senior year.
 <img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="Pytorch" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="Scikit" height="40" style="vertical-align:top; margin:4px">
-<img src="https://yt3.ggpht.com/ytc/AKedOLQLiGgNVoKuP0OOmK2l0YqdKuAHFkPqlKtPoOe63w=s900-c-k-c0x00ffffff-no-rj"
+<img src="https://yt3.ggpht.com/ytc/AKedOLQLiGgNVoKuP0OOmK2l0YqdKuAHFkPqlKtPoOe63w=s900-c-k-c0x00ffffff-no-rj" alt="Qiskit" height="40" style="vertical-align:top; margin:4px">
 
 
 
