@@ -40,7 +40,7 @@ Stranger, I'm a B.Tech student in his Senior year.
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=synthwave) 
+![Anurag's GitHub stats]() 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&theme=synthwave)](https://github.com/Ryukijano/github-readme-stats)
 
