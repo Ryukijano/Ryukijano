@@ -40,11 +40,11 @@ Stranger, I'm a B.Tech student in his Senior year.
 
 </p>
 
-![Anurag's GitHub stats]() 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=synthwave) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&theme=synthwave)](https://github.com/Ryukijano/github-readme-stats)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Ryukijano.CharalambosIoannou)
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=Ryukijano.CharalambosIoannou)
 
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
 ![Metrics](/github-metrics.svg)
