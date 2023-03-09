@@ -35,7 +35,7 @@
 
 <br />
 
-[![Visitors]https://komarev.com/ghpvc/?username=Ryukijano
+https://komarev.com/ghpvc/?username=Ryukijano
 <img src="https://komarev.com/ghpvc/?username=Ryukijano&style=flat-square&color=blue" alt=""/>
 
 ## 🧰 Languages,Tools and Frameworks:
