@@ -1,8 +1,8 @@
 name: Example
 uses: lowlighter/metrics@latest
 with:
-  template: terminal
-  filename: metrics.terminal.svg
+  filename: metrics.classic.svg
   token: ${{ secrets.METRICS_TOKEN }}
-  base: header, metadata
+  base: header, repositories
+  plugin_lines: yes
 
