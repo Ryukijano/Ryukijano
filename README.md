@@ -1,22 +1,24 @@
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="360" length="480"/>
 </div>
+### Hi there 👋
 
-
-Stranger, I'm a B.Tech student in his Senior year.
+ I'm a Bachelor's student in his senior year.
 
 - 🔭 I’m currently working on "SpAIcy".
-- 🌱 I’m currently learning to make hybrid architectures with Qiskit and DeepLearning Libraries; and Reinforcement Learning.
+- 🌱 I’m currently learning to make hybrid architectures with Qiskit and DeepLearning Libraries; and Reinforcement Learning Agents in Unity MLAgents.
 - 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with Parallel programming 
-- 💬 Ask me about .TECH, be it game engines or GPU architectures or kernels...
-- 😄 Pronouns: .He/Him..
-- ⚡ Fun fact: .I never tire out!..
+- 🤔 I’m looking for help with understanding parallel programming in context to compueter graphics and shader kernels.
+- 💬 Ask me about tech in general , be it game engines or GPU architectures or kernels...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:I never tire out!
 
 ## ✉️ Find me on:
 
+<div id="badges">
+  <a href = "https://www.linkedin.com/in/gyanateet-dutta-386215192/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 <p align="center">
  <a href="https://ryukijano.github.io./" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -45,9 +47,17 @@ Stranger, I'm a B.Tech student in his Senior year.
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=synthwave) 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&theme=synthwave)](https://github.com/Ryukijano/github-readme-stats)
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Ryukijano
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryukijano&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Ryukijano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&langs_count=10)](https://github.com/Ryukijano/github-readme-stats)
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Ryukijano.CharalambosIoannou)
 
