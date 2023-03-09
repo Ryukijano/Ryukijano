@@ -66,7 +66,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&langs_count=10)](https://github.com/Ryukijano/github-readme-stats)
 
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
-![Metrics](/github-metrics.svg)
-![Achievments](/metrics.plugin.achievements.svg)
-![snake animation](https://github.com/<seu Ryukijano>/<seu Ryukijano>/blob/output/github-contribution-grid-snake2.svg)
+[![Metrics](/github-metrics.svg)
+[![Achievments](/metrics.plugin.achievements.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
