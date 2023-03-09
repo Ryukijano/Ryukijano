@@ -1,5 +1,5 @@
-- uses: Platane/snk@v2.2.1
-  with:
+uses: Platane/snk@v2.2.1
+with:
     # github user name
     github_user_name: Ryukijano 
     # list of files to generate.
