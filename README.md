@@ -17,18 +17,26 @@
 
 ## ✉️ Find me on:
 
+<p align="center">
+
 <div id="badges">
   <a href = "https://www.linkedin.com/in/gyanateet-dutta-386215192/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
-<p align="center">
+  </a>
+   <a href="https://www.youtube.com/channel/UCf1XZKm0A_LoZj6Y22fIfcg">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+    <a href="https://twitter.com/gyanateet">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
  <a href="https://ryukijano.github.io./" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/gyanateet-dutta-386215192/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:gyanateet@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
 
+[![Visitors]https://komarev.com/ghpvc/?username=Ryukijano
+<img src="https://komarev.com/ghpvc/?username=Ryukijano&style=flat-square&color=blue" alt=""/>
 
 ## 🧰 Languages,Tools and Frameworks:
 <p align="center">
@@ -60,9 +68,8 @@ https://github-readme-streak-stats.herokuapp.com/?user=Ryukijano
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&langs_count=10)](https://github.com/Ryukijano/github-readme-stats)
 
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=Ryukijano.CharalambosIoannou)
-
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
 ![Metrics](/github-metrics.svg)
 ![Achievments](/metrics.plugin.achievements.svg)
+![snake animation](https://github.com/<Ryukijano>/<Ryukijano>/blob/output/github-contribution-grid-snake2.svg)
 
