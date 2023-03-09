@@ -1,8 +1,9 @@
+### Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="360" length="480"/>
 </div>
-### Hi there 👋
+
 
  I'm a Bachelor's student in his senior year.
 
