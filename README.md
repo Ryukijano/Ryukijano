@@ -70,5 +70,5 @@ https://github-readme-streak-stats.herokuapp.com/?user=Ryukijano
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
 ![Metrics](/github-metrics.svg)
 ![Achievments](/metrics.plugin.achievements.svg)
-![snake animation](https://github.com/<Ryukijano>/<Ryukijano>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu Ryukijano>/<seu Ryukijano>/blob/output/github-contribution-grid-snake2.svg)
 
