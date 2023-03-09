@@ -1,9 +1,9 @@
-uses: Platane/snk@v2.2.1
+uses: Platane/snk@v2
 with:
     github_user_name: ${{ Ryukijano}} 
-  outputs: |
-    dark.svg?palette=github-dark&color_snake=blue
-    light.svg?color_snake=#7845ab
-    ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+    outputs: |
+      dark.svg?palette=github-dark&color_snake=blue
+      light.svg?color_snake=#7845ab
+      ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
