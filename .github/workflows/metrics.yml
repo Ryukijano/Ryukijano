@@ -1,2 +1,8 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.32
+name: Example
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
+
