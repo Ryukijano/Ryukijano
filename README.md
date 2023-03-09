@@ -59,8 +59,6 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Ryukijano
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryukijano&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Ryukijano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=transparent)
