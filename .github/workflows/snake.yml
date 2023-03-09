@@ -1,5 +1,4 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.2.1
+- uses: Platane/snk@v2.2.1
   with:
     # github user name
     github_user_name: Ryukijano 
