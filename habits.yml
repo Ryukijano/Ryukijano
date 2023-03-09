@@ -1,8 +1,5 @@
 name: Metrics embed
 uses: lowlighter/metrics@v3.32
-
-name: Recent activity charts
-uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.habits.charts.svg
   token: ${{ secrets.METRICS_TOKEN }}
