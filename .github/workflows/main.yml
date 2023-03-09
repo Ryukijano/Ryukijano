@@ -1,4 +1,6 @@
-name: generate animation
+
+name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk@v2.2.1
 
 on:
   # run automatically every 24 hours
