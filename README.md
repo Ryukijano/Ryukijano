@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif)" width="100"/>
+</div>
+
 
 Stranger, I'm a B.Tech student in his Senior year.
 
