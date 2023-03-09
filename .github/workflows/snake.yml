@@ -1,6 +1,6 @@
 uses: Platane/snk@v2.2.1
 with:
-    github_user_name: Ryukijano 
+    github_user_name: ${{ Ryukijano}} 
   outputs: |
     dark.svg?palette=github-dark&color_snake=blue
     light.svg?color_snake=#7845ab
