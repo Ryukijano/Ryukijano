@@ -67,10 +67,7 @@
 
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
 [![Metrics](/github-metrics.svg)
-[![Achievments](/metrics.plugin.achievements.svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+![snake gif](https://github.com/Ryukijano/Ryukijano/blob/output/github-contribution-grid-snake.gif)
+
 
