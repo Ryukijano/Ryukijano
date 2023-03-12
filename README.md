@@ -10,9 +10,9 @@
 - 🔭 I’m currently working on "SpAIcy".
 - 🌱 I’m currently learning to make hybrid architectures with Qiskit and DeepLearning Libraries; and Reinforcement Learning Agents in Unity MLAgents.
 - 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with understanding parallel programming in context to compueter graphics and shader kernels.
+- 🤔 I’m looking for help with understanding parallel programming in context to computer graphics and shader kernels.
 - 💬 Ask me about tech in general , be it game engines or GPU architectures or kernels...
-- 😄 Pronouns: He/Him
+- 😄 LOVES SEAFOOD AND VIDEO GAMES!
 - ⚡ Fun fact:I never tire out!
 
 ## ✉️ Find me on:
