@@ -68,6 +68,6 @@
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
 [![Metrics](/github-metrics.svg)
 
-![snake gif](https://github.com/Ryukijano/Ryukijano/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/Ryukijano/Ryukijano/blob/output/github-contribution-grid-snake.svg)
 
 
