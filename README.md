@@ -14,7 +14,8 @@
 - 💬 Ask me about tech in general , be it game engines or GPU architectures or kernels...
 - 😄 LOVES SEAFOOD AND VIDEO GAMES!
 - ⚡ Fun fact:I never tire out!
-
+- 🖥️ My GitHub generated resume!
+-http://resume.github.io/?Ryukijano
 ## ✉️ Find me on:
 
 <p align="center">
