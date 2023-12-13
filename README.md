@@ -5,7 +5,7 @@
 </div>
 
 
- I'm a Master's Student studying CS & AI.
+ I'm a Master's Student studying CS & AI @University Of Leeds
 
 - 🔭 I’m currently working on "SpAIcy".
 - 🌱 I’m currently learning to make hybrid architectures with Qiskit and DeepLearning Libraries; and Reinforcement Learning Agents in Unity MLAgents.
