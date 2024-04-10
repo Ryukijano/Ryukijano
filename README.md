@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="360" length="480"/>
+![83b809857acd41a7bad4935b4734f9fc](https://github.com/Ryukijano/Ryukijano/assets/36641583/2077905f-4ece-4e32-b791-ccb425bfc34c)
+  
 </div>
 
 
