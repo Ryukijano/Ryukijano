@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<div id="header" align="center">
 ![83b809857acd41a7bad4935b4734f9fc](https://github.com/Ryukijano/Ryukijano/assets/36641583/2077905f-4ece-4e32-b791-ccb425bfc34c)
   
-</div>
+
 
 
  I'm a Master's Student studying CS & AI @University Of Leeds
