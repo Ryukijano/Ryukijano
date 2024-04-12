@@ -3,7 +3,10 @@
 ![83b809857acd41a7bad4935b4734f9fc](https://github.com/Ryukijano/Ryukijano/assets/36641583/2077905f-4ece-4e32-b791-ccb425bfc34c)
   
 
-
+Recently published Lightning.AI studio 
+<a target="_blank" href="https://lightning.ai/ryukijano/studios/conv2dlstm-implementation">
+  <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/>
+</a>
 
  I'm a Master's Student studying CS & AI @University Of Leeds
 
