@@ -8,9 +8,7 @@ Recently published Lightning.AI studio
   <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/>
 </a>
 
- I'm a Graduate  Student studying CS & AI @University Of Leeds
-
-**Gyanateet Dutta |  Computer Science & AI Master's Student @ University of Leeds**
+ **I'm a Graduate  Student studying CS & AI @University Of Leeds**
 
 **🔭 I’m currently working on...**
 
