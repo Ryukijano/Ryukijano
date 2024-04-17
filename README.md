@@ -8,16 +8,38 @@ Recently published Lightning.AI studio
   <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/>
 </a>
 
- I'm a Master's Student studying CS & AI @University Of Leeds
+ I'm a Graduate  Student studying CS & AI @University Of Leeds
 
-- 🔭 I’m currently working on "SpAIcy".
-- 🌱 I’m currently learning to make hybrid architectures with Qiskit and DeepLearning Libraries; and Reinforcement Learning Agents in Unity MLAgents.
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with understanding parallel programming in context to computer graphics and shader kernels.
-- 💬 Ask me about tech in general , be it game engines or GPU architectures or kernels...
-- 😄 LOVES SEAFOOD AND VIDEO GAMES!
-- ⚡ Fun fact:I never tire out!
-- 🖥️ My GitHub generated resume!
+**Gyanateet Dutta |  Computer Science & AI Master's Student @ University of Leeds**
+
+**🔭 I’m currently working on...**
+
+* Multiple ideas encompassing NERFs, vision transformers, and physics-based deep learning.
+* Hybrid quantum machine learning architectures with Qiskit and DeepLearning libraries.
+* Vision-based language models (Vision Transformers or Vision Transformer Diffusion models).
+
+**🌱 I’m currently learning...**
+
+* To make NERFs and new transformer models
+* Parallel programming for TPUs and making kernels efficient using CUDAC++ or CUDA in general
+
+**👯 I’m looking to collaborate on...**
+
+* Computer vision and computer graphics research, especially projects involving vision transformers. 
+
+**🤔 I’m looking for help with...**
+
+* Understanding parallel programming for TPUs and optimizing kernels with CUDAC++ or CUDA.
+
+**💬 Ask me about...**
+
+* Tech in general! I have broad interests in the field.
+
+**😄 I also love...**
+
+* Video games and all things tech.
+
+**⚡ Fun fact:** I am always sparked and motivated!! 
 -http://resume.github.io/?Ryukijano
 ## ✉️ Find me on:
 
