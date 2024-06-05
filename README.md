@@ -89,8 +89,6 @@ Recently published Lightning.AI studio
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&langs_count=10)](https://github.com/Ryukijano/github-readme-stats)
-
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
 [![Metrics](/github-metrics.svg)
 
