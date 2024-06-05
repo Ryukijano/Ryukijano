@@ -85,7 +85,6 @@ Recently published Lightning.AI studio
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryukijano&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Ryukijano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=transparent)
 [![Ryukijano's github stats](https://bad-apple-github-readme.vercel.app/api?username=Ryukijano&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=lodhik9&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
