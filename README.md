@@ -82,15 +82,18 @@ Recently published Lightning.AI studio
 ---
 
 ### :fire: My Stats :
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryukijano&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Ryukijano's github stats](https://bad-apple-github-readme.vercel.app/api?username=Ryukijano&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ryukijano&count_private=true&theme=tokyonight&show_icons=true)
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&langs_count=5&theme=tokyonight)
 
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
-[![Metrics](/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/Ryukijano?template=classic&languages=1&achievements=1&base.indepth=false)
+
+[![GitHub Skyline](https://img.shields.io/badge/Skyline-View-blue)](https://skyline.github.com/Ryukijano/2024)
 
 ![snake svg](https://github.com/Ryukijano/Ryukijano/blob/output/github-contribution-grid-snake.svg)
 
