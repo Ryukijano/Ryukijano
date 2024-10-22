@@ -43,7 +43,6 @@ Recently published Lightning.AI studio
 
 <p align="center">
 
-[![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryukijano)](https://holopin.io/ryukijano)
 <div id="badges">
   <a href = "https://www.linkedin.com/in/gyanateet-dutta-386215192/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -81,6 +80,8 @@ Recently published Lightning.AI studio
 </p>
 
 ---
+
+[![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryukijano)](https://holopin.io/ryukijano)
 
 ### :fire: My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
