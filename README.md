@@ -43,6 +43,7 @@ Recently published Lightning.AI studio
 
 <p align="center">
 
+[![An image of my Holopin badges](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://holopin.io/ryukijano)
 <div id="badges">
   <a href = "https://www.linkedin.com/in/gyanateet-dutta-386215192/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
