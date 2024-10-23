@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hugging Face](https://camo.githubusercontent.com/56f59d91f3ec9de0688a577ce5e0c70b8533fcd6c782204b9a689dd661602e53/68747470733a2f2f68756767696e67666163652e636f2f66726f6e742f6173736574732f686f6d65706167652f687567732e737667)](https://huggingface.co/Ryukijano)
+
 ![83b809857acd41a7bad4935b4734f9fc](https://github.com/Ryukijano/Ryukijano/assets/36641583/2077905f-4ece-4e32-b791-ccb425bfc34c)
   
 
