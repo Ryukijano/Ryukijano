@@ -101,6 +101,12 @@ Recently published Lightning.AI studio
 
 ![snake svg](https://github.com/Ryukijano/Ryukijano/blob/output/github-contribution-grid-snake.svg)
 
+## 🎧 Recently Played on Spotify:
+<!-- Spotify Recently Played Tracks -->
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID" alt="Spotify Recently Played" />
+</p>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
