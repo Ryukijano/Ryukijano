@@ -25,7 +25,7 @@ jobs:
         METRICS_ACTION_PATH: your-action-path
         METRICS_TAG: your-metrics-tag
         METRICS_VERSION: your-metrics-version
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
       run: |
         echo "GitHub action: $METRICS_ACTION ($METRICS_ACTION_PATH)"
         cd $METRICS_ACTION_PATH
