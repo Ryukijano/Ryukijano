@@ -12,35 +12,36 @@ Recently published Lightning.AI studio
 
  **I'm a Graduate  Student studying CS & AI @University Of Leeds**
 
+I'm a passionate and driven AI Researcher and a graduate student in Computer Science & AI at the University of Leeds. My goal is to leverage my expertise in deep learning, computer vision, and quantum computing to contribute to cutting-edge research and develop innovative solutions that benefit humanity.
+
 **🔭 I’m currently working on...**
 
-* Multiple ideas encompassing NERFs, vision transformers, and physics-based deep learning.
-* Hybrid quantum machine learning architectures with Qiskit and DeepLearning libraries.
-* Vision-based language models (Vision Transformers or Vision Transformer Diffusion models).
+Generative AI and 3D Vision: Exploring and developing novel ideas in Neural Radiance Fields (NeRFs), 3D Gaussian Splatting, and other 3D reconstruction techniques. I am particularly interested in leveraging Vision Transformers and Diffusion Models for these tasks.
+Quantum Machine Learning: Building hybrid quantum-classical machine learning models using Qiskit, PennyLane, and other quantum computing libraries. My focus is on exploring the potential of quantum computing to solve complex problems in science and AI.
+Physics-Based Deep Learning: Applying deep learning techniques to solve problems in physics and engineering, including working with differentiable physics simulators and learning PINNs (Physics-Informed Neural Networks).
+Vision-Language Models: Researching and developing vision-based language models, including Vision Transformers and Vision Transformer Diffusion models.
 
-**🌱 I’m currently learning...**
+**🌱 I’m always  learning...**
 
-* To make NERFs and new transformer models
-* Parallel programming for TPUs and making kernels efficient using CUDAC++ or CUDA in general
+Advanced techniques for creating and optimizing my projects and exploring new and efficient transformer architectures.
+Parallel programming with CUDA C++ and JAX to write highly efficient kernels for GPUs and TPUs.
 
 **👯 I’m looking to collaborate on...**
 
-* Computer vision and computer graphics research, especially projects involving vision transformers. 
+Research projects in computer vision and computer graphics, especially those involving Vision Transformers, NeRFs, and other generative models.
+Open-source projects that are pushing the boundaries of AI and its applications in science and technology.
 
 **🤔 I’m looking for help with...**
 
-* Understanding parallel programming for TPUs and optimizing kernels with CUDAC++ or CUDA.
+Gaining a deeper understanding of parallel programming for TPUs and optimizing kernels with CUDA C++ or CUDA in general.
 
 **💬 Ask me about...**
 
-* Tech in general! I have broad interests in the field.
+Anything related to AI, deep learning, computer vision, quantum computing, or technology in general! I'm always happy to chat and share my knowledge.
+😄 I also love...
 
-**😄 I also love...**
-
-* Video games and all things tech.
-
-**⚡ Fun fact:** I am always sparked and motivated!! 
--http://resume.github.io/?Ryukijano
+Going out in the sun for a run, touching grass and creating calmness in chaos.
+⚡ Fun fact: I am always sparked and motivated!!
 ## ✉️ Find me on:
 
 <p align="center">
