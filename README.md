@@ -10,7 +10,7 @@ Recently published Lightning.AI studio
   <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/>
 </a>
 
- **I'm a Graduate  Student studying CS & AI @University Of Leeds**
+ **I'm a Medical Imaging Research Intern @University Of Leeds**
 
 I'm a passionate and driven AI Researcher and a graduate student in Computer Science & AI at the University of Leeds. My goal is to leverage my expertise in deep learning, computer vision, and quantum computing to contribute to cutting-edge research and develop innovative solutions that benefit humanity.
 
