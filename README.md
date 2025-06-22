@@ -38,9 +38,7 @@ Gaining a deeper understanding of parallel programming for TPUs and optimizing k
 **💬 Ask me about...**
 
 Anything related to AI, deep learning, computer vision, quantum computing, or technology in general! I'm always happy to chat and share my knowledge.
-😄 I also love...
-
-Going out in the sun for a run, touching grass and creating calmness in chaos.
+😄 I also love...Going out in the sun for a run, touching grass and creating calmness in chaos.
 ⚡ Fun fact: I am always sparked and motivated!!
 ## ✉️ Find me on:
 
