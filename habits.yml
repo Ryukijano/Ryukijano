@@ -1,10 +1,16 @@
-name: Metrics embed
-uses: lowlighter/metrics@v3.32
-with:
-  filename: metrics.plugin.habits.charts.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_habits: yes
-  plugin_habits_facts: yes
-  plugin_habits_charts: yes
-  config_timezone: Europe/London
+name: Metrics
+on:
+  schedule: # Update daily
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
