@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Gyanateet Dutta
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Ryukijano-yellow)](https://huggingface.co/Ryukijano)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20120
+e-Ryukijano-yellow)](https://huggingface.co/Ryukijano)
 
 ![Header](https://camo.githubusercontent.com/56473ffec474dc7d154cef42bbda1f83ea424f04e3eb97eeebbb6e11eb1a56c4/68747470733a2f2f707269766174652d757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f33363634313538332f3332313336363632352d32303737393035662d346563652d346533322d623739312d636362343235626663333463e2e6769663f6a77743d65794a30655841694f694a4b563151694c434a6862476369486e4a49557a49314e694a392e65794a70633330694f6949796e316f624349696157516e496e42796233567a5a58526a4e32556961574a3057e6e6e4e6e524c6e566a62694973496e6468496a6f6952784979596d51304f544d315a434973496e6c78654341694f6a45334e6a67334e444d314d4445734e6d356d496a6f784e7a59344e7a51304d7a41304d5377774e7a67344e7a51304d7a41304d536c6a633259324e544d784f544d784f5463774d54567a6e5377704c6d4a6e646d5a5a554e4e555f687562535a57622e6e524f4c514b6559586c5a417371684e4a674e69564b6b5a6979694a4c4c4454526e524a5951494e756c646f47774a4c58346a56467445627a56775a574d7754517676647643775a4d43496d516e5268615551344e44557a566b3531476c7649556b355a554c5177695556736831586d467a45714e574e5156457445566a45675a336e6369624d6d4568787847777876624e44646f656d6b774c4f49356146567463574d454a4e545a464f564d30e2e6b536c6c5551785a6d7754787051546c4a494e454569656d55784a56525a416d564c464e56517177556c4a4d546f4d4577746e596e527363564a446e594335725a5651794f71724e4778764f77564e4e5546514a7a51783551736831565769776941793056516b304b5335774f6d46756330637564564c62574179626b31304d47776978567077624468736258514c6d7749696e4f3055384b567043544879616942686f59565655696e7456564e6b3561685a566f68744e5453684c6f4b4e4d5a49513d3d)
 
@@ -117,16 +118,13 @@ Anything related to AI, deep learning, computer vision, quantum computing, or te
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/Lightning%20AI-792DE4?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning AI"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Fac
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 
 </p>
 
 ---
 
-[![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryukijano)](https://holopin.io/ryukijano)
-
-### 230
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryukijano)](https://holopin.io/ryukijano)[![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -151,6 +149,5 @@ Anything related to AI, deep learning, computer vision, quantum computing, or te
 
 ![snake svg](https://github.com/Ryukijano/Ryukijano/blob/output/github-contribution-grid-snake.svg)
 
-## 🎧 Recently Played on Spotify:
 
-<!-- Spotify Recently Played Tracks -->
+![snake svg](https://github.com/Ryukijano/Ryukijano/blob/output/github-contribution-grid-snake.svg)
