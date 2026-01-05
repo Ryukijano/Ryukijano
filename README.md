@@ -101,39 +101,53 @@ Anything related to AI, deep learning, computer vision, quantum computing, or te
 
 ## 🧰 Languages, Tools and Frameworks:
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/kriegalex/vscode-cuda/master/images/cudaIcon.png" alt="CUDA C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg" alt="CUDA" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="Keras" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="TensorFlow" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="PyTorch" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="Scikit-learn" height="40" style="vertical-align:top; margin:4px">
-<img src="https://yt3.ggpht.com/ytc/AKedOLQLiGgNVoKuP0OOmK2l0YqdKuAHFkPqlKtPoOe63w=s900-c-k-c0x00ffffff-no-rj" alt="Qiskit" height="40" style="vertical-align:top; margin:4px">
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,cuda,javascript,html,css,react,nodejs,git,github,vscode,docker,kubernetes,aws,gcp,azure,linux,bash&perline=10)](https://skillicons.dev)
+
+### 🔬 Quantum & AI Frameworks:
+[![Quantum Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/>
+<img src="https://img.shields.io/badge/PennyLane-FFD700?style=for-the-badge&logo=python&logoColor=black" alt="PennyLane"/>
+<img src="https://img.shields.io/badge/JAX-8E44AD?style=for-the-badge&logo=python&logoColor=white" alt="JAX"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Lightning%20AI-792DE4?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning AI"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+margin:4px">
 </p>
 
 ---
 
 [![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryukijano)](https://holopin.io/ryukijano)
 
-### :fire: My Stats :
+### 230
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ryukijano&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryukijano&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=E05397&fire=E05397&currStreakLabel=E05397"/>
+</div>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ryukijano&count_private=true&theme=tokyonight&show_icons=true)
+### 📊 Advanced Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&langs_count=5&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryukijano&theme=react-dark&hide_border=true&area=true"/>
+</div>
+
+### 📊 Profile Stats:
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ryukijano&data=followers,repositories,stars,commits&theme=radical)](https://github.com/Jurredr/github-widgetbox)
 
 [![Github](https://img.shields.io/github/followers/Ryukijano?label=Follow&style=social)](https://github.com/Ryukijano)
-
-![Metrics](https://metrics.lecoq.io/Ryukijano?template=classic&languages=1&achievements=1&base.indepth=false)
-
-[![GitHub Skyline](https://img.shields.io/badge/Skyline-View-blue)](https://skyline.github.com/Ryukijano/2024)
 
 ![snake svg](https://github.com/Ryukijano/Ryukijano/blob/output/github-contribution-grid-snake.svg)
 
