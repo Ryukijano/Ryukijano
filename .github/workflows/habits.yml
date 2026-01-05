@@ -1,10 +1,24 @@
 name: Metrics embed
-uses: lowlighter/metrics@v3.32
-with:
-  filename: metrics.plugin.habits.charts.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_habits: yes
-  plugin_habits_facts: yes
-  plugin_habits_charts: yes
-  config_timezone: Europe/London
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate habits chart
+        uses: lowlighter/metrics@v3.32
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Europe/London
