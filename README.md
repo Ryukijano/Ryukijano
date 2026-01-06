@@ -22,6 +22,73 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ---
 
+## 📊 GitHub Profile Stats
+
+<div align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ryukijano&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://streak-stats-eight.vercel.app?user=Ryukijano&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![Ryukijano's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryukijano&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Languages & Frameworks
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,rust,c,cpp,java,js,html,css&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
+### Quantum & ML Libraries
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-00979D?style=for-the-badge)
+![PennyLane](https://img.shields.io/badge/PennyLane-00C9A7?style=for-the-badge)
+![TorchQuantum](https://img.shields.io/badge/TorchQuantum-EE4C2C?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Tools & Platforms
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,jupyter,vscode,linux&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
+![HPC](https://img.shields.io/badge/HPC-276DC3?style=for-the-badge)
+![SLURM](https://img.shields.io/badge/SLURM-0066CC?style=for-the-badge)
+![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Most Used Languages
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -32,7 +99,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ---
 
-## Recent Work
+## 🎯 Recent Work
 
 <div align="center">
 
@@ -46,108 +113,27 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ---
 
-## Current Work
+## 🔬 Current Work
 
 **Vision Research Intern** @ University of Leeds
-
-- Self-supervised learning in computer vision for medical imaging applications  
+- Self-supervised learning in computer vision for medical imaging applications 
 - Vision-language models and perception systems for robotics
 - 3D reconstruction using Neural Radiance Fields (NeRFs) and 3D Gaussian Splatting
 
 **Research Interests:**
 - Quantum algorithms and error correction
-- Quantum-hardware co-design with error correction stack  
+- Quantum-hardware co-design with error correction stack 
 - Machine learning for solving problems in sciences
 - Computer vision applications in healthcare and robotics
 - Physics-informed neural networks
 
 ---
 
-## Hugging Face Work
-
-Active contributor on [Hugging Face](https://huggingface.co/Ryukijano) with focus on:
-
-- **3D Computer Vision**: Human reconstruction, NeRFs, 3D mesh generation
-- **Vision-Language Models**: Multimodal perception systems
-- **Generative Models**: Text-to-3D, image-to-3D, audio-to-3D pipelines
-- **ML in Browser**: On-device inference and healthcare applications
-- **Robotics**: Perception and control systems
-
-**Featured Spaces:**
-- Control-net on surface normals for 3D human reconstruction
-- Multi-view image generation from text/images  
-- Talking head generation from image+audio
-- 3D mesh generation through chat interfaces
-
----
-
-## 🛠️ Tech Stack
+## 🐍 Contribution Graph
 
 <div align="center">
 
-### Languages & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,rust,js,flask,docker,git,linux&theme=dark)](https://skillicons.dev)
-
-### ML/AI & Quantum
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,cuda&theme=dark)](https://skillicons.dev)
-
-![Mojo](https://img.shields.io/badge/Mojo-FF6B35?style=for-the-badge&logo=modular&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-8E44AD?style=for-the-badge&logo=python&logoColor=white)
-![Candle](https://img.shields.io/badge/Candle-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-FFD700?style=for-the-badge&logo=python&logoColor=black)
-![TorchQuantum](https://img.shields.io/badge/TorchQuantum-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TKET](https://img.shields.io/badge/TKET-00ADD8?style=for-the-badge&logo=quantinuum&logoColor=white)
-![cuQuantum](https://img.shields.io/badge/cuQuantum-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Cirq](https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### Development Tools
-
-[![My Skills](https://skillicons.dev/icons?i=jupyter,vscode,github,gitlab,anaconda&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ryukijano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ryukijano&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Ryukijano&data=followers,repositories,stars,commits&theme=darkmode" width="49%" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryukijano&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanateet-dutta-386215192/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gyanateet)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCf1XZKm0A_LoZj6Y22fIfcg)
-[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ryukijano.github.io/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Ryukijano)
+<img src="https://raw.githubusercontent.com/Ryukijano/Ryukijano/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -155,10 +141,6 @@ Active contributor on [Hugging Face](https://huggingface.co/Ryukijano) with focu
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryukijano/Ryukijano/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryukijano/Ryukijano/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryukijano/Ryukijano/output/github-contribution-grid-snake.svg">
-</picture>
+### 💬 "Building practical quantum computing applications for real-world impact"
 
 </div>
