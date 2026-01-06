@@ -57,7 +57,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 ### Quantum & Scientific Computing
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-00979D?style=for-the-badge&logo=google&logoColor=white)
+![TORAX](https://img.shields.io/badge/TORAX-00979D?style=for-the-badge&logo=google&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-00C9A7?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
@@ -70,6 +70,8 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10" />
 </p>
+
+![JAX](https://img.shields.io/badge/JAX-00979D?style=for-the-badge&logo=google&logoColor=white)
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
