@@ -61,6 +61,9 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 ![PennyLane](https://img.shields.io/badge/PennyLane-00C9A7?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![TKET](https://img.shields.io/badge/TKET-4A90E2?style=for-the-badge&logo=quantinuum&logoColor=white)
+![CUDA-Q](https://img.shields.io/badge/CUDA--Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CUDA C++](https://img.shields.io/badge/CUDA_C++-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### ML & Deep Learning
 
