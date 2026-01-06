@@ -22,6 +22,16 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## Recent Work
 
 <div align="center">
@@ -71,26 +81,21 @@ Active contributor on [Hugging Face](https://huggingface.co/Ryukijano) with focu
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA_C++-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Mojo](https://img.shields.io/badge/Mojo-FF6B35?style=for-the-badge&logo=modular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages & Tools
 
-### ML/AI Frameworks  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,rust,js,flask,docker,git,linux&theme=dark)](https://skillicons.dev)
+
+### ML/AI & Quantum
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,cuda&theme=dark)](https://skillicons.dev)
+
+![Mojo](https://img.shields.io/badge/Mojo-FF6B35?style=for-the-badge&logo=modular&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-8E44AD?style=for-the-badge&logo=python&logoColor=white)
 ![Candle](https://img.shields.io/badge/Candle-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Quantum Computing
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-FFD700?style=for-the-badge&logo=python&logoColor=black)
 ![TorchQuantum](https://img.shields.io/badge/TorchQuantum-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -98,31 +103,37 @@ Active contributor on [Hugging Face](https://huggingface.co/Ryukijano) with focu
 ![cuQuantum](https://img.shields.io/badge/cuQuantum-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Cirq](https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Tools & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Lightning AI](https://img.shields.io/badge/Lightning_AI-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
+### Development Tools
+
+[![My Skills](https://skillicons.dev/icons?i=jupyter,vscode,github,gitlab,anaconda&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ryukijano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ryukijano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ryukijano&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<br/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ryukijano&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Ryukijano&data=followers,repositories,stars,commits&theme=darkmode" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryukijano&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryukijano&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -136,6 +147,7 @@ Active contributor on [Hugging Face](https://huggingface.co/Ryukijano) with focu
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gyanateet)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCf1XZKm0A_LoZj6Y22fIfcg)
 [![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ryukijano.github.io/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Ryukijano)
 
 </div>
 
