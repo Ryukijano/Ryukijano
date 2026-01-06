@@ -22,78 +22,76 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ---
 
-## 📊 GitHub Profile Stats
-
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ryukijano&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+## 📊 GitHub Stats Overview
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Stats & Activity
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://streak-stats-eight.vercel.app?user=Ryukijano&theme=tokyonight&hide_border=true" />
+## 🔥 Contribution Streak & Activity
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ryukijano&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<div align="center">
-
-[![Ryukijano's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryukijano&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Ryukijano's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryukijano&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages & Frameworks
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,rust,c,cpp,java,js,html,css&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,rust,cpp,c,java,js,html,css&perline=10" />
+</p>
 
-### Quantum & ML Libraries
+### Quantum & Scientific Computing
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-00979D?style=for-the-badge)
+![JAX](https://img.shields.io/badge/JAX-00979D?style=for-the-badge&logo=google&logoColor=white)
 ![PennyLane](https://img.shields.io/badge/PennyLane-00C9A7?style=for-the-badge)
-![TorchQuantum](https://img.shields.io/badge/TorchQuantum-EE4C2C?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### ML & Deep Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10" />
+</p>
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Tools & Platforms
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,jupyter,vscode,linux&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vim,jupyter,anaconda&perline=10" />
+</p>
 
 ![HPC](https://img.shields.io/badge/HPC-276DC3?style=for-the-badge)
 ![SLURM](https://img.shields.io/badge/SLURM-0066CC?style=for-the-badge)
 ![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
 
 ---
-
-## 📚 Most Used Languages
 
 <div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -105,22 +103,22 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 | Project | Description |
 |---------|-------------|
-| **Bradford Quantum Hackathon 2025 (Winner)** | Quantum-classical hybrid system for genomic sequence prediction |
-| **City of London Mayor Quantum Hackathon (Finalist)** | IBM quantum computing applications |
-| **Vision Research Intern @ Leeds** | Self-supervised learning for medical imaging and robotics |
+| **🧬 Bradford Quantum Hackathon 2025 (Winner)** | Quantum-classical hybrid system for genomic sequence prediction |
+| **🏆 City of London Mayor Quantum Hackathon (Finalist)** | IBM quantum computing applications |
+| **🔬 Vision Research Intern @ Leeds** | Self-supervised learning for medical imaging and robotics |
 
 </div>
 
 ---
 
-## 🔬 Current Work
+## 💡 Current Work
 
-**Vision Research Intern** @ University of Leeds
+**🔬 Vision Research Intern** @ University of Leeds
 - Self-supervised learning in computer vision for medical imaging applications 
 - Vision-language models and perception systems for robotics
 - 3D reconstruction using Neural Radiance Fields (NeRFs) and 3D Gaussian Splatting
 
-**Research Interests:**
+**🎯 Research Interests:**
 - Quantum algorithms and error correction
 - Quantum-hardware co-design with error correction stack 
 - Machine learning for solving problems in sciences
@@ -129,11 +127,11 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ---
 
-## 🐍 Contribution Graph
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ryukijano/Ryukijano/output/github-contribution-grid-snake-dark.svg" width="100%" />
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Ryukijano/Ryukijano/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -142,5 +140,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 <div align="center">
 
 ### 💬 "Building practical quantum computing applications for real-world impact"
+
+**👉 Let's connect and collaborate on quantum computing and AI projects!**
 
 </div>
