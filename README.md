@@ -5,6 +5,10 @@
 
 ### Quantum Computing | Machine Learning for Sciences | Computer Vision & Robotics
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6929C4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Quantum+Computing+Researcher+%7C+Machine+Learning+Engineer;Building+Quantum+Algorithms+for+Real-World+Problems;PhD+Candidate+%40+University+of+Leeds" alt="Typing SVG" />
+</div>
+
 <a href="https://huggingface.co/Ryukijano"><img src="https://huggingface.co/front/assets/homepage/hugs.svg" alt="Hugging Face" height="40"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanateet-dutta-386215192/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/gyanateet)
@@ -136,6 +140,16 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 - Machine learning for solving problems in sciences
 - Computer vision applications in healthcare and robotics
 - Physics-informed neural networks
+
+---
+
+<div align="center">
+
+## 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
