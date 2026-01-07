@@ -26,7 +26,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ## 📊 GitHub Stats Overview
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryukijano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ryukijano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -36,7 +36,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ## 🔥 Contribution Streak & Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ryukijano&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Ryukijano&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 [![Ryukijano's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryukijano&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -64,6 +64,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 ![TKET](https://img.shields.io/badge/TKET-4A90E2?style=for-the-badge&logo=quantinuum&logoColor=white)
 ![CUDA-Q](https://img.shields.io/badge/CUDA--Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CUDA C++](https://img.shields.io/badge/CUDA_C++-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Quantinuum Nexus](https://img.shields.io/badge/Quantinuum_Nexus-00A4EF?style=for-the-badge&logoColor=white)
 
 ### ML & Deep Learning
 
@@ -72,7 +73,6 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 </p>
 
 <a href="https://github.com/jax-ml/jax"><img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo.png" alt="JAX" height="40"/></a>
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -83,7 +83,6 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vim,jupyter,anaconda&perline=10" />
 </p>
 
-![HPC](https://img.shields.io/badge/HPC-276DC3?style=for-the-badge)
 ![SLURM](https://img.shields.io/badge/SLURM-0066CC?style=for-the-badge)
 ![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
