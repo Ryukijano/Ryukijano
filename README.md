@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6929C4&center=true&vCenter=true&width=1000&lines=Quantum+Computing+Researcher+🔬;Machine+Learning+Engineer+🤖;Computer+Vision+%26+Robotics+Enthusiast+👁️;Bradford+Quantum+Hackathon+Winner+🏆)](https://git.io/typing-svg)
 
 # Hi, I'm Gyanateet Dutta
 
@@ -55,7 +54,6 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,rust,cpp,c,mojo,js,html,css&perline=10" />
 </p>
-![Mojo](https://img.shields.io/badge/Mojo-FF4B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnoiIGZpbGw9IiNGRjRCMDAiLz48L3N2Zz4=&logoColor=white)
 
 ### Quantum & Scientific Computing
 
@@ -102,7 +100,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=radical&no-frame=true&no-bg=true&margin-w=4)ma/github-profile-trophy)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=radical&row=1&column=7" alt="trophies" /> </p>
 
 </div>
 
