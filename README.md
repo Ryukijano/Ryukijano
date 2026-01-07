@@ -51,7 +51,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 ### Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,rust,cpp,c,java,js,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,rust,cpp,c,mojo,js,html,css&perline=10" />
 </p>
 
 ### Quantum & Scientific Computing
@@ -64,7 +64,6 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 ![TKET](https://img.shields.io/badge/TKET-4A90E2?style=for-the-badge&logo=quantinuum&logoColor=white)
 ![CUDA-Q](https://img.shields.io/badge/CUDA--Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CUDA C++](https://img.shields.io/badge/CUDA_C++-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Quantinuum Nexus](https://img.shields.io/badge/Quantinuum_Nexus-00A4EF?style=for-the-badge&logoColor=white)
 
 ### ML & Deep Learning
 
@@ -75,6 +74,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 <a href="https://github.com/jax-ml/jax"><img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo.png" alt="JAX" height="40"/></a>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Candle](https://img.shields.io/badge/Candle-CE412B?style=for-the-badge&logo=rust&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Tools & Platforms
