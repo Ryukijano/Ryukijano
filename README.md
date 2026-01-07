@@ -6,7 +6,8 @@
 ### Quantum Computing | Machine Learning for Sciences | Computer Vision & Robotics
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6929C4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Quantum+Computing+Researcher+%7C+Machine+Learning+Engineer;Building+Quantum+Algorithms+for+Real-World+Problems;PhD+Candidate+%40+University+of+Leeds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%A4%96+Hacking+robots+to+see%2C+think%2C+and+not+rebel+against+humanity;%E2%9A%9B%EF%B8%8F+Making+qubits+do+useful+things+%7C+Sometimes+they+cooperate;%F0%9F%8E%AE+Kaggle+Grandmaster+Speedrunner+%7C+Sleep+is+for+the+weak" alt="Typing SVG" />
+
 </div>
 
 <a href="https://huggingface.co/Ryukijano"><img src="https://huggingface.co/front/assets/homepage/hugs.svg" alt="Hugging Face" height="40"></a>
@@ -120,6 +121,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 | Project | Description |
 |---------|-------------|
 | **🧬 Bradford Quantum Hackathon 2025 (Winner)** | Quantum-classical hybrid system for genomic sequence prediction |
+| **🤖 Gemma-GR00T Vision-Language-Action** | Compact VLA policy for robotic manipulation with SigLIP + Gemma 3 + ScaleDP |
 | **🏆 City of London Mayor Quantum Hackathon (Finalist)** | IBM quantum computing applications |
 | **🔬 Vision Research Intern @ Leeds** | Self-supervised learning for medical imaging and robotics |
 
