@@ -53,6 +53,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,rust,cpp,c,mojo,js,html,css&perline=10" />
 </p>
+<img src="https://www.modular.com/images/mojo-logo.svg" alt="Mojo" height="50"/>
 
 ### Quantum & Scientific Computing
 
@@ -86,6 +87,10 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 ![SLURM](https://img.shields.io/badge/SLURM-0066CC?style=for-the-badge)
 ![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
 
