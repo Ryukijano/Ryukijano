@@ -5,13 +5,16 @@
 
 ### Quantum Computing | Machine Learning for Sciences | Computer Vision & Robotics
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Ryukijano-yellow?style=flat&logo=huggingface)](https://huggingface.co/Ryukijano)
+<a href="https://huggingface.co/Ryukijano"><img src="https://huggingface.co/front/assets/homepage/hugs.svg" alt="Hugging Face" height="40"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanateet-dutta-386215192/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/gyanateet)
+
 [![Website](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://ryukijano.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gyanateet@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ryukijano&style=flat&color=blueviolet)
+
+![Animated GIF](https://github.com/Ryukijano/Ryukijano/assets/36641583/2077905f-4ece-4e32-b791-ccb425bfc34c)
 
 </div>
 
