@@ -100,7 +100,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 ## 🏆 GitHub Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ryukijano&theme=radical&row=1&column=7" alt="trophies" /> </p>
+<p align="center"> <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=Ryukijano&theme=radical&row=1&column=7" alt="trophies" /> </p>
 
 </div>
 
