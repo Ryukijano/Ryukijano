@@ -27,7 +27,7 @@
 
 ## Research Focus
 
-Graduate student in Computer Science & AI at the University of Leeds, with research interests at the intersection of quantum computing, machine learning, and computer vision. Currently working on practical applications of quantum algorithms and self-supervised learning methods for real-world problems.
+Graduate student in Computer Science & AI at the University of Leeds, with research interests at the intersection of quantum computing, machine learning, and computer vision. Currently working on practical applications of quantum algorithms and self-supervised learning methods for real-world problems. Proud Qiskit Advocate contributing to the quantum open-source community.
 
 ---
 
