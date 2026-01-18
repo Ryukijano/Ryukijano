@@ -123,6 +123,8 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 | Project | Description |
 |---------|-------------|
+
+| My paper "Self-supervised Transformers for surgical phase recognition" has been accepted for ISBI 2026.
 | **🧬 Bradford Quantum Hackathon 2025 (Winner)** | Quantum-classical hybrid system for genomic sequence prediction |
 | **🤖 Gemma-GR00T Vision-Language-Action** | Compact VLA policy for robotic manipulation with SigLIP + Gemma 3 + ScaleDP |
 | **🏆 City of London Mayor Quantum Hackathon (Finalist)** | IBM quantum computing applications |
