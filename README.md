@@ -172,8 +172,7 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 <div align="center">
 
-### 💬 "Building practical quantum computing applications for real-world impact"
 
-**👉 Let's connect and collaborate on quantum computing and AI projects!**
+**👉Always happy to connect if you have some interesting ideas and OFC OPEN SOURCE FTW!!**
 
 </div>
