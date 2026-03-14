@@ -3,7 +3,8 @@
 
 # Hi, I'm Gyanateet Dutta
 
-### Quantum Computing | Machine Learning for Sciences | Computer Vision & Robotics
+### Quantum Computing | Machine Learning for Sciences | Computer Vision & Robotics | Scientific Computing
+### PS I don't spaghetti mumbo these areas, I think of them as tools to learn ideas from to use in each other. ###
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%A4%96+Hacking+robots+to+see%2C+think%2C+and+not+rebel+against+humanity;%E2%9A%9B%EF%B8%8F+Making+qubits+do+useful+things+%7C+Sometimes+they+cooperate;%F0%9F%8E%AE+Kaggle+Grandmaster+Speedrunner+%7C+Sleep+is+for+the+weak" alt="Typing SVG" />
