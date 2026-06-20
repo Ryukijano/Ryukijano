@@ -106,30 +106,17 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 </div>
 
----
-
 <div align="center">
-
-## 🏆 GitHub Trophies
-
-<p align="center"> <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=Ryukijano&theme=radical&row=1&column=7" alt="trophies" /> </p>
-
-</div>
-
----
 
 ## 🎯 Recent Work
 
-<div align="center">
-
 | Project | Description |
 |---------|-------------|
-
-| My paper "Self-supervised Transformers for surgical phase recognition" has been accepted for ISBI 2026.
-| **🧬 Bradford Quantum Hackathon 2025 (Winner)** | Quantum-classical hybrid system for genomic sequence prediction |
-| **🤖 Gemma-GR00T Vision-Language-Action** | Compact VLA policy for robotic manipulation with SigLIP + Gemma 3 + ScaleDP |
-| **🏆 City of London Mayor Quantum Hackathon (Finalist)** | IBM quantum computing applications |
-| **🔬 Vision Research Intern @ Leeds** | Self-supervised learning for medical imaging and robotics |
+| **ISBI 2026 Paper** | Self-supervised Transformers for surgical phase recognition |
+| **Bradford Quantum Hackathon 2025 (Winner)** | Quantum-classical hybrid system for genomic sequence prediction |
+| **Gemma-GR00T Vision-Language-Action** | Compact VLA policy for robotic manipulation with SigLIP + Gemma 3 + ScaleDP |
+| **City of London Mayor Quantum Hackathon (Finalist)** | IBM quantum computing applications |
+| **Vision Research Intern @ Leeds** | Self-supervised learning for medical imaging and robotics |
 
 </div>
 
@@ -148,16 +135,6 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 - Machine learning for solving problems in sciences
 - Computer vision applications in healthcare and robotics
 - Physics-informed neural networks
-
----
-
-<div align="center">
-
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
