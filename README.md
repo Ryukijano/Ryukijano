@@ -1,15 +1,15 @@
 <div align="center">
 
+# Hi, I'm Gyanateet Dutta (Ryukijano)
 
-# Hi, I'm Gyanateet Dutta
-
-### Quantum Computing | Machine Learning for Sciences | Computer Vision & Robotics | Scientific Computing
-### PS I don't spaghetti mumbo these areas, I think of them as tools to learn ideas from to use in each other. ###
+Researcher & engineer — quantum computing · machine learning · computer vision · robotics
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%A4%96+Hacking+robots+to+see%2C+think%2C+and+not+rebel+against+humanity;%E2%9A%9B%EF%B8%8F+Making+qubits+do+useful+things+%7C+Sometimes+they+cooperate;%F0%9F%8E%AE+Kaggle+Grandmaster+Speedrunner+%7C+Sleep+is+for+the+weak" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%A4%96+Hacking+robots+to+see%2C+think+and+not+rebel+against+humanity;%E2%9A%9B%EF%B8%8F+Making+qubits+do+useful+things+%7C+Building+practical+AI+for+science+and+health" alt="Typing SVG" />
 
 </div>
+
+<p>Researcher at the University of Leeds. I build practical AI and quantum systems — from self‑supervised vision for medical imaging and vision‑language‑action policies for robotics, to quantum‑classical algorithms for scientific problems. Open‑source enthusiast • Qiskit Advocate.</p>
 
 <a href="https://huggingface.co/Ryukijano"><img src="https://huggingface.co/front/assets/homepage/hugs.svg" alt="Hugging Face" height="40"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanateet-dutta-386215192/)
@@ -106,30 +106,17 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 
 </div>
 
----
-
 <div align="center">
-
-## 🏆 GitHub Trophies
-
-<p align="center"> <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=Ryukijano&theme=radical&row=1&column=7" alt="trophies" /> </p>
-
-</div>
-
----
 
 ## 🎯 Recent Work
 
-<div align="center">
-
 | Project | Description |
 |---------|-------------|
-
-| My paper "Self-supervised Transformers for surgical phase recognition" has been accepted for ISBI 2026.
-| **🧬 Bradford Quantum Hackathon 2025 (Winner)** | Quantum-classical hybrid system for genomic sequence prediction |
-| **🤖 Gemma-GR00T Vision-Language-Action** | Compact VLA policy for robotic manipulation with SigLIP + Gemma 3 + ScaleDP |
-| **🏆 City of London Mayor Quantum Hackathon (Finalist)** | IBM quantum computing applications |
-| **🔬 Vision Research Intern @ Leeds** | Self-supervised learning for medical imaging and robotics |
+| **ISBI 2026 Paper** | Self-supervised Transformers for surgical phase recognition |
+| **Bradford Quantum Hackathon 2025 (Winner)** | Quantum-classical hybrid system for genomic sequence prediction |
+| **Gemma-GR00T Vision-Language-Action** | Compact VLA policy for robotic manipulation with SigLIP + Gemma 3 + ScaleDP |
+| **City of London Mayor Quantum Hackathon (Finalist)** | IBM quantum computing applications |
+| **Vision Research Intern @ Leeds** | Self-supervised learning for medical imaging and robotics |
 
 </div>
 
@@ -148,16 +135,6 @@ Graduate student in Computer Science & AI at the University of Leeds, with resea
 - Machine learning for solving problems in sciences
 - Computer vision applications in healthcare and robotics
 - Physics-informed neural networks
-
----
-
-<div align="center">
-
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
