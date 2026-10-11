@@ -1,156 +1,126 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/pinboard-mobile.png">
+  <img src="./assets/pinboard.png" width="1600" alt="Gyanateet Dutta (Ryukijano). A pinboard with my childhood computer photo, the pixel-art desk, and notes on self-supervised vision, quantum algorithms and robot learning.">
+</picture>
 
-# Hi, I'm Gyanateet Dutta (Ryukijano)
+**Researcher at the University of Leeds. Qiskit Advocate.**
 
-Researcher & engineer — quantum computing · machine learning · computer vision · robotics
+I work on self-supervised vision for medical imaging, perception and learning for robots, and quantum-classical algorithms for scientific problems.
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%A4%96+Hacking+robots+to+see%2C+think+and+not+rebel+against+humanity;%E2%9A%9B%EF%B8%8F+Making+qubits+do+useful+things+%7C+Building+practical+AI+for+science+and+health" alt="Typing SVG" />
-
-</div>
-
-<p>Researcher at the University of Leeds. I build practical AI and quantum systems — from self‑supervised vision for medical imaging and vision‑language‑action policies for robotics, to quantum‑classical algorithms for scientific problems. Open‑source enthusiast • Qiskit Advocate.</p>
-
-<a href="https://huggingface.co/Ryukijano"><img src="https://huggingface.co/front/assets/homepage/hugs.svg" alt="Hugging Face" height="40"></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyanateet-dutta-386215192/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/gyanateet)
-
-[![Website](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://ryukijano.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gyanateet@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ryukijano&style=flat&color=blueviolet)
-
-![Animated GIF](https://github.com/Ryukijano/Ryukijano/assets/36641583/2077905f-4ece-4e32-b791-ccb425bfc34c)
-
-</div>
-
----
-
-## Research Focus
-
-Graduate student in Computer Science & AI at the University of Leeds, with research interests at the intersection of quantum computing, and machine learning. I also work on computer vision since I envision a world with intelligent robotics and autonomous systems. Currently working on practical applications of quantum algorithms and self-supervised learning methods for real-world problems. Proud Qiskit Advocate contributing to the quantum open-source community.
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats Overview
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ryukijano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ryukijano&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak & Activity
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Ryukijano&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Ryukijano's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryukijano&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,rust,cpp,c,mojo,js,html,css&perline=10" />
+<p>
+  <a href="https://ryukijano.github.io/"><img src="./assets/stickers/personal-website.svg" alt="Personal website"></a>
+  <a href="https://www.linkedin.com/in/gyanateet-dutta-386215192/"><img src="./assets/stickers/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/Ryukijano"><img src="./assets/stickers/hugging-face.svg" alt="Hugging Face"></a>
+  <a href="https://twitter.com/gyanateet"><img src="./assets/stickers/twitter.svg" alt="Twitter"></a>
+  <a href="mailto:gyanateet@gmail.com"><img src="./assets/stickers/email-me.svg" alt="Email me"></a>
 </p>
 
-### Quantum & Scientific Computing
+## What I work on
 
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-<a href="https://github.com/google-deepmind/torax"><img src="https://raw.githubusercontent.com/google-deepmind/torax/main/docs/images/torax_logo_cropped.png" alt="TORAX" height="40"/></a>
-![PennyLane](https://img.shields.io/badge/PennyLane-00C9A7?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![TKET](https://img.shields.io/badge/TKET-4A90E2?style=for-the-badge&logo=quantinuum&logoColor=white)
-![CUDA-Q](https://img.shields.io/badge/CUDA--Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CUDA C++](https://img.shields.io/badge/CUDA_C++-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- **Vision:** self-supervised learning for surgical video and medical imaging; NeRFs and 3D Gaussian splatting.
+- **Robotics:** vision-language-action policies, robot perception and manipulation.
+- **Quantum & scientific computing:** quantum algorithms, error correction, hardware co-design and machine learning for science.
 
-### ML & Deep Learning
+## Selected work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10" />
+| Work | What it's about |
+| :--- | :--- |
+| ISBI 2026 paper | Self-supervised Transformers for surgical phase recognition. |
+| [Gemma-GR00T](https://github.com/Ryukijano/Gemma-Grook) | A vision-language-action policy using SigLIP, Gemma 3 and ScaleDP. |
+| Bradford Quantum Hackathon 2025 — winner | A quantum-classical hybrid system for genomic sequence prediction. |
+| City of London Mayor Quantum Hackathon — finalist | Applications of IBM quantum computing. |
+
+## Sticker drawer
+
+<p>
+  <img src="./assets/stickers/python-rust-c-c-javascript-html-and-css.svg" width="343" alt="Python, Rust, C++, C, JavaScript, HTML and CSS">
 </p>
 
-<a href="https://github.com/jax-ml/jax"><img src="https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo.png" alt="JAX" height="40"/></a>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Candle](https://img.shields.io/badge/Candle-CE412B?style=for-the-badge&logo=rust&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<details>
+<summary><strong>Quantum & scientific computing</strong></summary>
 
-### Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vim,jupyter,anaconda&perline=10" />
+<p>
+  <a href="https://www.ibm.com/quantum/qiskit"><img src="./assets/stickers/qiskit.svg" alt="Qiskit"></a>
+  <img src="./assets/stickers/pennylane.svg" alt="PennyLane">
+  <img src="./assets/stickers/numpy.svg" alt="NumPy">
+  <img src="./assets/stickers/scipy.svg" alt="SciPy">
+  <img src="./assets/stickers/tket.svg" alt="TKET">
+  <img src="./assets/stickers/cuda-q.svg" alt="CUDA-Q">
+  <img src="./assets/stickers/cuda-c.svg" alt="CUDA C++">
+  <img src="./assets/stickers/ibm-quantum.svg" alt="IBM Quantum">
+</p>
+<p>
+  <a href="https://github.com/google-deepmind/torax"><img src="./assets/stickers/torax.png" height="40" alt="TORAX"></a>
 </p>
 
-![SLURM](https://img.shields.io/badge/SLURM-0066CC?style=for-the-badge)
-![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+</details>
 
-</div>
+<details>
+<summary><strong>Machine learning & vision</strong></summary>
 
-<div align="center">
+<p>
+  <img src="./assets/stickers/pytorch-and-tensorflow.svg" width="96" alt="PyTorch and TensorFlow">
+</p>
+<p>
+  <a href="https://github.com/jax-ml/jax"><img src="./assets/stickers/jax.png" height="40" alt="JAX"></a>
+</p>
+<p>
+  <img src="./assets/stickers/scikit-learn.svg" alt="scikit-learn">
+  <img src="./assets/stickers/keras.svg" alt="Keras">
+  <img src="./assets/stickers/candle.svg" alt="Candle">
+  <img src="./assets/stickers/opencv.svg" alt="OpenCV">
+  <img src="./assets/stickers/mojo.svg" alt="Mojo">
+</p>
 
-## 🎯 Recent Work
+</details>
 
-| Project | Description |
-|---------|-------------|
-| **ISBI 2026 Paper** | Self-supervised Transformers for surgical phase recognition |
-| **Bradford Quantum Hackathon 2025 (Winner)** | Quantum-classical hybrid system for genomic sequence prediction |
-| **Gemma-GR00T Vision-Language-Action** | Compact VLA policy for robotic manipulation with SigLIP + Gemma 3 + ScaleDP |
-| **City of London Mayor Quantum Hackathon (Finalist)** | IBM quantum computing applications |
-| **Vision Research Intern @ Leeds** | Self-supervised learning for medical imaging and robotics |
+<details>
+<summary><strong>Tools, platforms & simulation</strong></summary>
 
-</div>
+<p>
+  <img src="./assets/stickers/git-github-docker-linux-vs-code-vim-and-anaconda.svg" width="343" alt="Git, GitHub, Docker, Linux, VS Code, Vim and Anaconda">
+</p>
+<p>
+  <img src="./assets/stickers/jupyter.svg" alt="Jupyter">
+  <img src="./assets/stickers/slurm.svg" alt="SLURM">
+  <img src="./assets/stickers/cuda.svg" alt="CUDA">
+  <img src="./assets/stickers/hugging-face.svg" alt="Hugging Face">
+  <img src="./assets/stickers/aws.svg" alt="AWS">
+  <img src="./assets/stickers/google-cloud.svg" alt="Google Cloud">
+  <img src="./assets/stickers/microsoft-azure.svg" alt="Microsoft Azure">
+  <img src="./assets/stickers/isaac-sim.svg" alt="Isaac Sim">
+  <img src="./assets/stickers/mujoco.svg" alt="MuJoCo">
+  <img src="./assets/stickers/blender.svg" alt="Blender">
+</p>
+
+</details>
+
+<details>
+<summary><strong>The pixel desk & Hugging Face hugs</strong></summary>
+
+<p>
+  <img src="./assets/stickers/my-original-animated-pixel-art-desk-a-purple-room-with-compu.gif" width="680" alt="My original animated pixel-art desk: a purple room with computers, planets and a robot">
+</p>
+<p>
+  <a href="https://huggingface.co/Ryukijano"><img src="./assets/stickers/the-original-hugging-face-hugs-sticker.svg" width="180" alt="The original Hugging Face hugs sticker"></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>Contribution streak & snake</strong></summary>
+
+<p>
+  <a href="https://github.com/Ryukijano?tab=overview"><img src="https://github-readme-streak-stats-eight.vercel.app?user=Ryukijano&amp;theme=default&amp;hide_border=true" width="495" alt="Ryukijano's contribution streak"></a>
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/Ryukijano/Ryukijano/output/github-contribution-grid-snake.svg" width="1000" height="180" alt="A snake animation of my GitHub contribution calendar">
+</p>
+
+[GitHub activity](https://github.com/Ryukijano?tab=overview) · [Snake generator](https://github.com/Ryukijano/Ryukijano/actions/workflows/snake.yml)
+
+</details>
 
 ---
 
-## 💡 Current Work
-
-**🔬 Vision Research Intern** @ University of Leeds
-- Self-supervised learning in computer vision for medical imaging applications 
-- Vision-language models and perception systems for robotics
-- 3D reconstruction using Neural Radiance Fields (NeRFs) and 3D Gaussian Splatting
-
-**🎯 Research Interests:**
-- Quantum algorithms and error correction
-- Quantum-hardware co-design with error correction stack 
-- Machine learning for solving problems in sciences
-- Computer vision applications in healthcare and robotics
-- Physics-informed neural networks
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Ryukijano/Ryukijano/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-
-**👉Always happy to connect if you have some interesting ideas and OFC OPEN SOURCE FTW!!**
-
-</div>
+Have an interesting research idea or an open-source project? [Get in touch](mailto:gyanateet@gmail.com).
