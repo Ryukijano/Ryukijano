@@ -1,0 +1,177 @@
+[
+  {
+    "file": "personal-website.svg",
+    "source": "https://img.shields.io/badge/Website-6951A5?style=flat-square&logo=googlechrome&logoColor=white",
+    "alt": "Personal website"
+  },
+  {
+    "file": "linkedin.svg",
+    "source": "https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square",
+    "alt": "LinkedIn"
+  },
+  {
+    "file": "hugging-face.svg",
+    "source": "https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black",
+    "alt": "Hugging Face"
+  },
+  {
+    "file": "twitter.svg",
+    "source": "https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square",
+    "alt": "Twitter"
+  },
+  {
+    "file": "email-me.svg",
+    "source": "https://img.shields.io/badge/Email-6951A5?style=flat-square&logo=gmail&logoColor=white",
+    "alt": "Email me"
+  },
+  {
+    "file": "python-rust-c-c-javascript-html-and-css.svg",
+    "source": "https://skillicons.dev/icons?i=python,rust,cpp,c,js,html,css&perline=7",
+    "alt": "Python, Rust, C++, C, JavaScript, HTML and CSS"
+  },
+  {
+    "file": "qiskit.svg",
+    "source": "https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white",
+    "alt": "Qiskit"
+  },
+  {
+    "file": "pennylane.svg",
+    "source": "https://img.shields.io/badge/PennyLane-00C9A7?style=for-the-badge",
+    "alt": "PennyLane"
+  },
+  {
+    "file": "numpy.svg",
+    "source": "https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white",
+    "alt": "NumPy"
+  },
+  {
+    "file": "scipy.svg",
+    "source": "https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white",
+    "alt": "SciPy"
+  },
+  {
+    "file": "tket.svg",
+    "source": "https://img.shields.io/badge/TKET-4A90E2?style=for-the-badge",
+    "alt": "TKET"
+  },
+  {
+    "file": "cuda-q.svg",
+    "source": "https://img.shields.io/badge/CUDA--Q-76B900?style=for-the-badge&logo=nvidia&logoColor=white",
+    "alt": "CUDA-Q"
+  },
+  {
+    "file": "cuda-c.svg",
+    "source": "https://img.shields.io/badge/CUDA_C++-76B900?style=for-the-badge&logo=nvidia&logoColor=white",
+    "alt": "CUDA C++"
+  },
+  {
+    "file": "ibm-quantum.svg",
+    "source": "https://img.shields.io/badge/IBM_Quantum-052FAD?style=for-the-badge",
+    "alt": "IBM Quantum"
+  },
+  {
+    "file": "torax.png",
+    "source": "https://raw.githubusercontent.com/google-deepmind/torax/main/docs/images/torax_logo_cropped.png",
+    "alt": "TORAX"
+  },
+  {
+    "file": "pytorch-and-tensorflow.svg",
+    "source": "https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2",
+    "alt": "PyTorch and TensorFlow"
+  },
+  {
+    "file": "jax.png",
+    "source": "https://raw.githubusercontent.com/jax-ml/jax/main/images/jax_logo.png",
+    "alt": "JAX"
+  },
+  {
+    "file": "scikit-learn.svg",
+    "source": "https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white",
+    "alt": "scikit-learn"
+  },
+  {
+    "file": "keras.svg",
+    "source": "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white",
+    "alt": "Keras"
+  },
+  {
+    "file": "candle.svg",
+    "source": "https://img.shields.io/badge/Candle-CE412B?style=for-the-badge&logo=rust&logoColor=white",
+    "alt": "Candle"
+  },
+  {
+    "file": "opencv.svg",
+    "source": "https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white",
+    "alt": "OpenCV"
+  },
+  {
+    "file": "mojo.svg",
+    "source": "https://img.shields.io/badge/Mojo-E45A32?style=for-the-badge",
+    "alt": "Mojo"
+  },
+  {
+    "file": "git-github-docker-linux-vs-code-vim-and-anaconda.svg",
+    "source": "https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vim,anaconda&perline=7",
+    "alt": "Git, GitHub, Docker, Linux, VS Code, Vim and Anaconda"
+  },
+  {
+    "file": "jupyter.svg",
+    "source": "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white",
+    "alt": "Jupyter"
+  },
+  {
+    "file": "slurm.svg",
+    "source": "https://img.shields.io/badge/SLURM-0066CC?style=for-the-badge",
+    "alt": "SLURM"
+  },
+  {
+    "file": "cuda.svg",
+    "source": "https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white",
+    "alt": "CUDA"
+  },
+  {
+    "file": "hugging-face.svg",
+    "source": "https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black",
+    "alt": "Hugging Face"
+  },
+  {
+    "file": "aws.svg",
+    "source": "https://img.shields.io/badge/AWS-FF9900?style=for-the-badge",
+    "alt": "AWS"
+  },
+  {
+    "file": "google-cloud.svg",
+    "source": "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white",
+    "alt": "Google Cloud"
+  },
+  {
+    "file": "microsoft-azure.svg",
+    "source": "https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge",
+    "alt": "Microsoft Azure"
+  },
+  {
+    "file": "isaac-sim.svg",
+    "source": "https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white",
+    "alt": "Isaac Sim"
+  },
+  {
+    "file": "mujoco.svg",
+    "source": "https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge",
+    "alt": "MuJoCo"
+  },
+  {
+    "file": "blender.svg",
+    "source": "https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white",
+    "alt": "Blender"
+  },
+  {
+    "file": "my-original-animated-pixel-art-desk-a-purple-room-with-compu.gif",
+    "source": "https://github.com/Ryukijano/Ryukijano/assets/36641583/2077905f-4ece-4e32-b791-ccb425bfc34c",
+    "alt": "My original animated pixel-art desk: a purple room with computers, planets and a robot"
+  },
+  {
+    "file": "the-original-hugging-face-hugs-sticker.svg",
+    "source": "https://huggingface.co/front/assets/homepage/hugs.svg",
+    "alt": "The original Hugging Face hugs sticker"
+  }
+]
